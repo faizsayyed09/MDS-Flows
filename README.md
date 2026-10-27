@@ -1,4 +1,4 @@
-# MSD Flows
+# MDS Flows
 
 Version-controlled repository for Matcha Design Studio / Langflow workflows used for CEQ auditing, call analysis, ticket evaluation, knowledge management, and operational automation.
 
